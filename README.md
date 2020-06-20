@@ -10,6 +10,6 @@ Make sure to add `BulkPatch.py` to your ghidra script folder.
 
 ## Limitations
 * Only 64-bit architectures
-* Only continous blocks of instructions
+* Only continuous blocks of instructions
 
 Feel free to create a PR for any of these limitations
