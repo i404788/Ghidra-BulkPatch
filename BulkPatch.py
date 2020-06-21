@@ -1,5 +1,5 @@
 # Write the selected memory (including patches) back to a copy of the binary file
-#@author schlafwandler
+#@author i404788
 #@category Memory
 #@keybinding 
 #@menupath 
